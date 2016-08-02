@@ -8,7 +8,7 @@
 [![devDependency Status][dev-deps-badge]][dev-deps]
 [![peerDependency Status][peer-deps-badge]][peer-deps]
 
-It's a [react.js](http://facebook.github.io/react/) table for bootstrap, named reactbsTable. It's a configurable, functional table component and make you build a Bootstrap Table more efficiency and easy in your React application, However ```react-bootstrap-table``` support these features:
+It's a [react.js](http://facebook.github.io/react/) table for bootstrap, named reactbsTable. It's a configurable, functional table component to help you build a Bootstrap Table more efficiency and easily in your React application, Currently, ```react-bootstrap-table``` supports these features:
 
 - striped, borderless, condensed table
 - column align, hidden, width, sort
@@ -25,8 +25,8 @@ It's a [react.js](http://facebook.github.io/react/) table for bootstrap, named r
 - rich function hooks
 - large columns table
 
-Explore more example on [examples](https://github.com/AllenFang/react-bootstrap-table/tree/master/examples/js) folder</br>
-See more about [react-bootstrap-table](http://allenfang.github.io/react-bootstrap-table/index.html).</br>
+Explore more examples in the [examples](https://github.com/AllenFang/react-bootstrap-table/tree/master/examples/js) folder</br>
+See more about the project here: [react-bootstrap-table](http://allenfang.github.io/react-bootstrap-table/index.html).</br>
 Check [this](http://allenfang.github.io/react-bootstrap-table/advance.html) for more advance usage for ```react-bootstrap-table```. Feel free to ask more examples.</br>
 Check the <a href='https://github.com/AllenFang/react-bootstrap-table/blob/master/CHANGELOG.md'>CHANGELOG</a> for more detail release notes.
 
